@@ -2,10 +2,22 @@
     background-image:url(images/parkles.jpg);
     background-position: cover;
     background-size: cover;
+    
 }
+
+.back2{
+    background-image:url(images/parkles.jpg);
+    background-position: cover;
+    background-size: cover;
+    padding-top:10rem;
+}
+
 .bee{margin-left:20px;
 }
 
+.next{
+    background-color: rgb(230, 240, 248);
+}
 /* .con{
     margin-top: 100px;
 } */
